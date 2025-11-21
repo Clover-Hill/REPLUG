@@ -32,6 +32,7 @@ TOP_K=10
 RETRIEVED_MAX_LENGTH=128
 
 # LSR parameters
+# testing
 TEMP_RETRIEVAL=0.1
 TEMP_LM=0.1
 
